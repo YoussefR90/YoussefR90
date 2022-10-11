@@ -8,9 +8,6 @@
 [![Discord](https://img.shields.io/static/v1?label=Discord&labelColor=6E85D3&message=yoshr#9317&color=555555&style=flat&logo=discord&logoColor=white)](#)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=Youssef.Rivas@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:Youssef.Rivas@gmail.com)
 
-<a href="https://twitter.com/CYoshhh">
-  <img align="left" alt="Youssef-Rivas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/youssef-rivas">
   <img align="left" alt="Youssef-Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -22,7 +19,7 @@
   <em><b>- Henry Ford</b></em>
   <br><br/>
 
-Hi, i'm [Youssef Rivas](https://github.com/YoussefR90), a passionate full stack web development student @ CODEUP and a tech enthusiastic from the United States. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Youssef Rivas](https://github.com/YoussefR90), a passionate full stack web development graduate and a tech enthusiastic from the United States. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. I work with Accenture as a data analyst working heavily within the Google cloud and Databricks platforms.
 
 i'm 30 years old, graduated with a Bachelor in Human Resources and Minor in Computer Science from [University of Houston], a Veteran of the USAf, Father of 3 beautiful daughters and a husband!
 
@@ -48,7 +45,7 @@ i'm also an open-source enthusiast. I learned a lot from the open-source communi
 
  Things I'm currently challenging myself with:
 - Code exercises everyday!
-- Trying to wake up earlier to make good use of the day
+
 
 ---
   <summary>📃 Resume</summary>
